@@ -1,7 +1,6 @@
 // Workshop 9 - Files
 
-// Name: Daniel Lifchitz
-// Student #: 107719163
+
 
 #include <stdio.h>
 #include <stdlib.h>
